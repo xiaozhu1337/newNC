@@ -1,0 +1,2 @@
+# newNC
+python netcat 
